@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Who is JSparks?",
+    "url": "blogs/who is jsparks digitalization .html",
+    "excerpt": "At JSparks Digitalization, we understand that the modern business landscape is rapidly evolving...",
+    "date": "2025-01-01",
+    "tags": ["about"],
+    "cover": ""
+  },
+  {
+    "title": "JSparks Digitalization Services",
+    "url": "blogs/JSparks Digitalization Services .html",
+    "excerpt": "At JSparks Digitalization, we specialize in digital marketing services that help businesses increase visibility...",
+    "date": "2025-01-02",
+    "tags": ["services"],
+    "cover": ""
+  },
+  {
+    "title": "Why Pollachi Needs Websites?",
+    "url": "blogs/why business need website .html",
+    "excerpt": "Word of mouth isn't enough anymore. Learn why your business needs to be on Google...",
+    "date": "2025-01-03",
+    "tags": ["website"],
+    "cover": ""
+  },
+  {
+    "title": "What is Digital Marketing?",
+    "url": "blogs/what is digital marketing .html",
+    "excerpt": "Digital marketing turns attention into opportunity — measure, optimize, repeat...",
+    "date": "2025-01-05",
+    "tags": ["marketing"],
+    "cover": ""
+  },
+  {
+    "title": "Stop Clicking \"Boost Post\"",
+    "url": "blogs/Stop Clicking Boost Post .html",
+    "excerpt": "Are you wasting money on social media likes? Learn the difference between boosting and professional Ads...",
+    "date": "2025-01-04",
+    "tags": ["ads","smm"],
+    "cover": ""
+  }
+]
